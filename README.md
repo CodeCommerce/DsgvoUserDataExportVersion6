@@ -13,7 +13,7 @@ https://oxidforge.org/en/how-we-temporarily-handle-the-right-to-data-portability
 
 Geben Sie auf der CLI folgenden Befehl ein
 
-    composer require codecommerce/dsgvo_userdata
+    composer require codecommerce/dsgvo_userdata:dev-master
 
 ### Manuelle Einrichtung
 
