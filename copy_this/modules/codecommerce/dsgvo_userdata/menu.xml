@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OX>
+  <OXMENU id="NAVIGATION_ESHOPADMIN">
+      <MAINMENU id="mxuadmin">
+          <SUBMENU id="mxusers" cl="admin_user" list="user_list">
+              <TAB id="CC_DSGVO_USEREXPORT" cl="cc_dsgvo_userdata_export" />
+          </SUBMENU>
+      </MAINMENU>
+  </OXMENU>
+</OX>
+       	
